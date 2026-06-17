@@ -50,7 +50,11 @@ npm run gui
 ```
 
 ### 2. Run as a Web App (Browser)
-Serve the React application locally in your browser:
+You can also use the live deployed version directly:
+
+👉 **Open:** https://calculator-app-psi-sage.vercel.app/
+
+Or run the React application locally in your browser:
 ```bash
 npm run dev
 ```
